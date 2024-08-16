@@ -1,0 +1,6 @@
+VERSION control sytem 
+Version control adalah sebuah system yang merekam perubashsn pada file dari 
+waktu ke waktu. Sehingga kita bisa melihat versoi sebelum nyajika ndi inggin
+ kan version control dapat mendukung untuk berbagai file
+
+yeah aku berhasil
